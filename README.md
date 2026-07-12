@@ -11,9 +11,6 @@ This project demonstrates how to control a single LED using a push button switch
 - AT89C51 Microcontroller
 - LED
 - Push Button Switch
-- 220Ω Resistor
-- 10kΩ Resistor
-- Power Supply
 
 ## Files Included
 - single led with switch.c
